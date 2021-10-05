@@ -7,9 +7,6 @@ Full Stack Developer
 <h4 align="center">
 Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
 </h4>
-<h4 align="center">
-Muchas gracias por visitar mi GitHub!!!
-</h4>
 
 <h4 align="center">
 Tecnologías en las que soy competente:
@@ -31,6 +28,10 @@ Tecnologías en las que soy competente:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
 </p>
+
+<h4 align="center">
+Muchas gracias por visitar mi GitHub!!!
+</h4>
 
 <!--
 **AlmafuerteAriel/AlmafuerteAriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
