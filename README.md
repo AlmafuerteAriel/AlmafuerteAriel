@@ -4,10 +4,16 @@ Full Stack Developer
 
 &nbsp;&nbsp;
 
-<h3 align="center">
+<h4 align="center">
 Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
-</h3>
-## :star: Tecnologías en las que soy competente:
+</h4>
+<h4 align="center">
+Muchas gracias por visitar mi GitHub!!!
+</h4>
+
+<h4 align="center">
+Tecnologías en las que soy competente:
+</h4>
 
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -15,9 +21,9 @@ Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-
-  <br />
-  
+</p>
+<br />
+<p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
