@@ -3,7 +3,7 @@ Full Stack Developer
 </h2>
 
 &nbsp;&nbsp;
-<code><img align="center" width="80%" height="20px" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></code>
+<code><img align="center" width="80%" height="100px" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></code>
 
 <h4 align="center">
 Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
