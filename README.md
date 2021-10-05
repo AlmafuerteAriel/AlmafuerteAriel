@@ -5,7 +5,7 @@ Full Stack Developer
 Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
 </h4>
 
-&nbsp;&nbsp;
+&nbsp;
 <code>
   <p align="center">
     <img width="80%" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
