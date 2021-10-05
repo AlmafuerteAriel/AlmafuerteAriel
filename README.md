@@ -1,8 +1,30 @@
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer
 </h2>
 
 &nbsp;&nbsp;
+
+<h3 align="center">
+Hola, mi nombre es Ariel, me gusta la tecnología y aprender permanentemente.
+</h3>
+## :star: Tecnologías en las que soy competente:
+
+<p align="center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+</p>
 
 <!--
 **AlmafuerteAriel/AlmafuerteAriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
